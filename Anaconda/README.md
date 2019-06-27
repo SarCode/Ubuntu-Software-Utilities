@@ -10,15 +10,14 @@
 
 ### Method 1
 - Open Terminal and type
+
 ``
-git clone --depth 1 https://github.com/SarCode/Ubuntu-Software Anaconda
-		
-cd Anaconda
-		
-chmod +x command.sh
-		
-bash command.sh
+		git clone --depth 1 https://github.com/SarCode/Ubuntu-Software Face-Unlock
+		cd Face-Unlock
+		chmod +x command.sh
+		bash command.sh
 ``
+
 	
 
 ### Method 2
