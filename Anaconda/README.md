@@ -54,4 +54,5 @@ Commands to open internal software:
 If spyder command doesn't work:
 In terminal:
 `conda install -c anacond spyder`
+<br>
 `spyder`
