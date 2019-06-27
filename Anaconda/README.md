@@ -13,8 +13,11 @@
 
 ``
 		git clone --depth 1 https://github.com/SarCode/Ubuntu-Software Face-Unlock
+		
 		cd Face-Unlock
+		
 		chmod +x command.sh
+		
 		bash command.sh
 ``
 
