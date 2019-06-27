@@ -29,11 +29,13 @@ If above method doesn't work for you.
 Open Terminal :
 
 ``
+
 cd /tmp
 
 curl -O https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
 
 bash Anaconda3-2019.03-Linux-x86_64.sh
+
 ``
 	
 - Press Enter till you reach end of License Agreement.
