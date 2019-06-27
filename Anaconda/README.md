@@ -5,7 +5,7 @@
 > Reference: [Installation of Anaconda on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
 
  # Instructions
-[command.sh] () contains all the necessary commands
+[command.sh] (https://github.com/SarCode/Ubuntu-Software/blob/master/Anaconda/command.sh) contains all the necessary commands
 
 ### Easy Method
 - Open Terminal and type
