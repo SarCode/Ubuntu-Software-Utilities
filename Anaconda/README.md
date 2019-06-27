@@ -10,7 +10,7 @@
 
 ### Method 1
 - Open Terminal and type
-``
+
 
 		git clone --depth 1 https://github.com/SarCode/Ubuntu-Software Face-Unlock
 		
@@ -20,7 +20,7 @@
 		
 		bash command.sh
 		
-``
+
 	
 	
 
@@ -28,15 +28,14 @@
 If above method doesn't work for you.
 Open Terminal :
 
-``
 
-cd /tmp
+	cd /tmp
 
-curl -O https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
+	curl -O https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
 
-bash Anaconda3-2019.03-Linux-x86_64.sh
+	bash Anaconda3-2019.03-Linux-x86_64.sh
 
-``
+
 	
 - Press Enter till you reach end of License Agreement.
 	- Type yes to agree to license aggrement.
@@ -57,19 +56,22 @@ Update and Upgrade all packages.
 
 Commands to open internal software:
 
-``
-anaconda-navigator
-jupyter-notebook
-spyder
-``
+
+	anaconda-navigator
+	
+	jupyter-notebook
+	
+	spyder
+	
+
 
 If spyder command doesn't work:
 <br>
 In terminal:
 
 <br>
-``
-conda install -c anaconda spyder
 
-spyder
-``
+	conda install -c anaconda spyder
+
+	spyder
+
