@@ -21,7 +21,7 @@ If above method doesn't work for you
 
  -    cd /tmp
 
- - curl -O https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
+ - curl -O https://<span></span>repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
 
  - bash Anaconda3-2019.03-Linux-x86_64.sh
 	- Press Enter till you reach end of License Agreement.
