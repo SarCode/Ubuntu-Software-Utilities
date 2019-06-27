@@ -8,7 +8,7 @@
  # Instructions
 [command.sh](https://github.com/SarCode/Ubuntu-Software/blob/master/Anaconda/command.sh) contains all the necessary commands
 
-### Easy Method
+### Method 1
 - Open Terminal and type
 
 		git clone --depth 1 https://github.com/SarCode/Ubuntu-Software Anaconda
@@ -21,7 +21,7 @@
 
 	
 
-### Manual Method
+### Method 2
 If above method doesn't work for you.
 Open Terminal :
 
