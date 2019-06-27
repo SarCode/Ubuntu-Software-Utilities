@@ -32,4 +32,5 @@ Now use your face for sudo command !
 - Except above scenario the program works perfectly.
 
 - You can add multiple face to it, i.e. if your face is not recognized for any reason, then use command to add your face in that light condition.
-  sudo howdy add 
+<br>
+  `sudo howdy add `
