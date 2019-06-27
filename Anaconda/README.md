@@ -59,6 +59,6 @@ If spyder command doesn't work:
 <br>
 In terminal:
 <br>
-`conda install -c anacond spyder`
+`conda install -c anaconda spyder`
 <br>
 `spyder`
