@@ -9,7 +9,7 @@
 
 ### Easy Method
 - Open Terminal and type
-	- git clone --depth 1 https://<span></span>github.com/SarCode/Ubuntu-Software Anaconda
+	- git clone --depth 1 https://<span></span>github.com/SarCode/Ubuntu-Software Anaconda  $bg-gray
 	- cd Anaconda
 	- chmod +x command.sh
 	- bash command.sh
