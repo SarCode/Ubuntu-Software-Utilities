@@ -41,6 +41,4 @@ Update and Upgrade all packages.
 Commands to open internal software:
 
 	- anaconda-navigator
-	- spyder
 	- jupyter-notebook
-	- 
