@@ -3,7 +3,7 @@
 
 
 > Written with [StackEdit](https://stackedit.io/).
-> Reference: [Unlock with Face]([https://github.com/Boltgolt/howdy](https://github.com/Boltgolt/howdy))
+> Reference: [Unlock with Face](https://github.com/Boltgolt/howdy)
 
 # Introduction
 Don't you feel irritated when you have to type your password again and again everytime you use a sudo command?
