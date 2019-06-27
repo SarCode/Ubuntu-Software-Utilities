@@ -7,7 +7,7 @@
  # Instructions
 [command.sh] () contains all the necessary commands
 
-## Easy Method
+### Easy Method
 - Open Terminal and type
 	- git clone --depth 1 https://<span></span>github.com/SarCode/Ubuntu-Software Anaconda
 	- cd Anaconda
@@ -15,7 +15,7 @@
 	- bash command.sh
 	
 
-## Manual Method
+### Manual Method
 If above method doesn't work for you
 
  -    cd /tmp
@@ -36,5 +36,11 @@ Update and Upgrade all packages.
 
   
 
-# Anaconda is ready !
+# Anaconda is Ready !
 
+Commands to open internal software:
+
+	- anaconda-navigator
+	- spyder
+	- jupyter-notebook
+	- 
