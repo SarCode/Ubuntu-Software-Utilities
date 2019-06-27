@@ -42,3 +42,9 @@ Commands to open internal software:
 
 	- anaconda-navigator
 	- jupyter-notebook
+	- spyder
+
+If spyder command doesn't work:
+In terminal:
+	- conda install -c anaconda spyder 
+	- spyder
