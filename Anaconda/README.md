@@ -10,13 +10,14 @@
 ### Easy Method
 - Open Terminal and type
 
-	- ''' shell
-	git clone --depth 1 https://<span></span>github.com/SarCode/Ubuntu-Software Anaconda  
-	'''
+	''' 
 	
-	- cd Anaconda
-	- chmod +x command.sh
-	- bash command.sh
+	git clone --depth 1 https://<span></span>github.com/SarCode/Ubuntu-Software Anaconda
+	
+	cd Anaconda
+	chmod +x command.sh
+	bash command.sh
+	'''
 	
 
 ### Manual Method
