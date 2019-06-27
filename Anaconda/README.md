@@ -2,18 +2,17 @@
 
 
 > Written with [StackEdit](https://stackedit.io/).
-> Reference: [Installation of Anaconda on Ubunt](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
+> Reference: [Installation of Anaconda on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
 
  # Instructions
 [command.sh] () contains all the necessary commands
 
 ## Easy Method
-- Download [command.sh] ()
-
-- Open terminal and go to folder where command.<span></span>sh is downloaded.
-- Type in terminal 
-	-  chmod +x command.<span></span>sh
-	- bash command.<span></span>sh
+- Open Terminal and type
+	- git clone --depth 1 https://<span></span>github.com/SarCode/Ubuntu-Software Anaconda
+	- cd Anaconda
+	- chmod +x command.sh
+	- bash command.sh
 	
 
 ## Manual Method
