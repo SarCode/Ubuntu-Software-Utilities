@@ -10,18 +10,18 @@
 
 ### Method 1
 - Open Terminal and type
-
 ``
 
-git clone --depth 1 https://github.com/SarCode/Ubuntu-Software Face-Unlock
+		git clone --depth 1 https://github.com/SarCode/Ubuntu-Software Face-Unlock
 		
-cd Face-Unlock
+		cd Face-Unlock
 		
-chmod +x command.sh
+		chmod +x command.sh
 		
-bash command.sh
+		bash command.sh
+		
 ``
-
+	
 	
 
 ### Method 2
