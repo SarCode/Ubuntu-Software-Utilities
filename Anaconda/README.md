@@ -3,6 +3,7 @@
 
 
 > Written with [StackEdit](https://stackedit.io/).
+<br>
 > Reference: [Installation of Anaconda on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
 
  # Instructions
