@@ -9,30 +9,34 @@
 
 ### Easy Method
 - Open Terminal and type
-	- 	git clone --depth 1 https://<span></span>github.com/SarCode/Ubuntu-Software Anaconda  $bg-gray
-	- 	cd Anaconda
-	- 	chmod +x command.sh
-	- 	bash command.sh
+
+	- ''' shell
+	git clone --depth 1 https://<span></span>github.com/SarCode/Ubuntu-Software Anaconda  
+	'''
+	
+	- cd Anaconda
+	- chmod +x command.sh
+	- bash command.sh
 	
 
 ### Manual Method
 If above method doesn't work for you
 
- -	cd /tmp
+ - cd /tmp
 
- - 	curl -O https://<span></span>repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
+ - curl -O https://<span></span>repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
 
- - 	bash Anaconda3-2019.03-Linux-x86_64.sh
+ - bash Anaconda3-2019.03-Linux-x86_64.sh
 	- Press Enter till you reach end of License Agreement.
 	- Type yes to agree to license aggrement.
 	- Press Enter if default location doesn't bother you, else change location. [ Recommended to not change location ]
 	- Type yes to use conda command
 	
-- 	source ~/.bashrc
+- source ~/.bashrc
 
 Update and Upgrade all packages.
 
-- 	conda update --all && conda upgrade --all
+- conda update --all && conda upgrade --all
 
   
 
@@ -40,9 +44,9 @@ Update and Upgrade all packages.
 
 Commands to open internal software:
 
-	- 	anaconda-navigator
-	- 	jupyter-notebook
-	- 	spyder
+	- anaconda-navigator
+	- jupyter-notebook
+	- spyder
 
 If spyder command doesn't work:
 In terminal:
