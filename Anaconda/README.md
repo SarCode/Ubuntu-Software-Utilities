@@ -12,9 +12,9 @@
 - Open Terminal and type
 
 
-		git clone --depth 1 https://github.com/SarCode/Ubuntu-Software Face-Unlock
+		git clone --depth 1 https://github.com/SarCode/Ubuntu-Software Anaconda
 		
-		cd Face-Unlock
+		cd Anaconda
 		
 		chmod +x command.sh
 		
