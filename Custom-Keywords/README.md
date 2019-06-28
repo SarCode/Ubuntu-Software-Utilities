@@ -22,8 +22,8 @@ You can create a command 'up'  i.e. just by delivering command 'up' in terminal 
 
 
 # Instruction
-	git clone https://github.com/SarCode/Ubuntu-Software
-	cd Ubuntu-Software/Custom-Keywords
+	https://github.com/SarCode/Ubuntu-Software-Utilities
+	cd Ubuntu-Software-Utilities/Custom-Keywords
 	python3 alias.py
 
 # Try using your new commands now !!
