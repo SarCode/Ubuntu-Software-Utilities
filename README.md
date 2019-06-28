@@ -2,18 +2,11 @@
 Instructions and Commands to install softwares on Ubuntu Machine
 <br>
 <br>
-## Commands
 
-Most useful day-to-day usage commands can be found [here](https://github.com/SarCode/Ubuntu-Software-Utilities/tree/master/Useful-Commands).
-
-<br>
-<br>
 ## Anaconda
 
 Install [anaconda](https://github.com/SarCode/Ubuntu-Software-Utilities/tree/master/Anaconda) in few easy steps
 
-<br>
-<br>
 
 ## Clean your system
 Removes:
@@ -28,6 +21,7 @@ Majority of the junk is deleted.
 
 <br>
 <br>
+
 ## Complete Update and Upgrade your system
  
  Use command:
