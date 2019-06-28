@@ -12,7 +12,7 @@
 - Open Terminal and type
 
 
-		git clone https://github.com/SarCode/Ubuntu-Software
+		git clone https://github.com/SarCode/Ubuntu-Software-Utilities
 		
 		cd Ubuntu-Software-Utilities/Anaconda
 		
