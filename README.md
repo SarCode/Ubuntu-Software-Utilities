@@ -2,18 +2,18 @@
 Instructions and Commands to install softwares on Ubuntu Machine
 <br>
 <br>
-<br>
-<br>
-<br>
-
 ## Commands
 
 Most useful day-to-day usage commands can be found [here](https://github.com/SarCode/Ubuntu-Software-Utilities/tree/master/Useful-Commands).
 
+<br>
+<br>
 ## Anaconda
 
 Install [anaconda](https://github.com/SarCode/Ubuntu-Software-Utilities/tree/master/Anaconda) in few easy steps
 
+<br>
+<br>
 
 ## Clean your system
 Removes:
@@ -26,14 +26,16 @@ Majority of the junk is deleted.
 <br>
 `sudo apt-get autoclean && sudo apt-get autoremove`
 
+<br>
+<br>
 ## Complete Update and Upgrade your system
  
  Use command:
  <br>
  `sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get upgrade --with-new-pkgs`
 
-
-
+<br>
+<br>
 
 ## Ever closed a terminal that was running important command?
 
@@ -57,3 +59,6 @@ Example:
 `nohup spyder`
 
 Just simply, run a command and close the tab.
+
+<br>
+<br>
