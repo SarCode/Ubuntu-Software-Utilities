@@ -27,3 +27,29 @@ Majority of the junk is deleted.
  Use command:
  <br>
  `sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get upgrade --with-new-pkgs`
+
+
+
+
+## Ever closed a terminal that was running important command?
+
+All of us have at-least once accidentally closed a terminal which has our command running, and then we have re-iniliase the whole setup.
+
+Well I give you a life-long solution to it.
+
+`nohup` command
+
+Example:
+
+`nohup sudo apt-get upgrade`
+
+Now, even if I close the terminal, the command won't stop and will work on the background.
+
+Nice ! 
+
+You can use it to run software via terminal and then close the terminal.
+
+Example:
+`nohup spyder`
+
+Just simply, run a command and close the tab.
