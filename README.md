@@ -7,6 +7,8 @@ Instructions and Commands to install softwares on Ubuntu Machine
 
 Install [anaconda](https://github.com/SarCode/Ubuntu-Software-Utilities/tree/master/Anaconda) in few easy steps
 
+<br>
+<br>
 
 ## Clean your system
 Removes:
