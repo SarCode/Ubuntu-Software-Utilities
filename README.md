@@ -13,7 +13,8 @@ Install [anaconda](https://github.com/SarCode/Ubuntu-Software-Utilities/tree/mas
 
 ## Clean your system
 
-Command to clear all unwanted data can be found here
+Clear cache and remove unwanted libraries, binaries, kernel etc. 
+Majority of the junk is deleted. 
 <br>
 `sudo apt-get autoclean && sudo apt-get autoremove`
 
