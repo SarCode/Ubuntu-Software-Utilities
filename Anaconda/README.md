@@ -14,7 +14,7 @@
 
 		git clone https://github.com/SarCode/Ubuntu-Software
 		
-		cd /Ubuntu-Software-Utilities/Anaconda
+		cd Ubuntu-Software-Utilities/Anaconda
 		
 		chmod +x command.sh
 		
