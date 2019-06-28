@@ -20,4 +20,5 @@ Command to clear all unwanted data can be found here
 ## Complete Update and Upgrade your system
  
  Use command:
+ <br>
  `sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get upgrade --with-new-pkgs`
