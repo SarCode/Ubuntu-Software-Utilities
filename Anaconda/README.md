@@ -12,9 +12,9 @@
 - Open Terminal and type
 
 
-		git clone --depth 1 https://github.com/SarCode/Ubuntu-Software Anaconda
+		git clone https://github.com/SarCode/Ubuntu-Software
 		
-		cd Anaconda
+		cd /Ubuntu-Software-Utilities/Anaconda
 		
 		chmod +x command.sh
 		
