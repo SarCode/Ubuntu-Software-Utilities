@@ -1,6 +1,10 @@
 # Ubuntu-Software
 Instructions and Commands to install softwares on Ubuntu Machine
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Commands
 
