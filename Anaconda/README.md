@@ -12,15 +12,9 @@
 - Open Terminal and type
 
 
-		git clone https://github.com/SarCode/Ubuntu-Software-Utilities
+		git clone https://github.com/SarCode/Ubuntu-Software-Utilities && cd Ubuntu-Software-Utilities/Anaconda 
 		
-		cd Ubuntu-Software-Utilities/Anaconda
-		
-		chmod +x command.sh
-		
-		bash command.sh
-		
-
+		chmod +x command.sh && bash command.sh
 	
 	
 
