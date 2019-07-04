@@ -35,7 +35,7 @@ Majority of the junk is deleted.
 
 ## Ever closed a terminal that was running important command?
 
-All of us have at-least once accidentally closed a terminal which has our command running, and then we have re-iniliase the whole setup.
+All of us have at-least once accidentally closed a terminal which has our command running, and then we have to re-iniliaze the whole setup.
 
 Well I give you a life-long solution to it.
 
