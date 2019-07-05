@@ -8,7 +8,6 @@ Instructions and Commands to install softwares on Ubuntu Machine
 Install [anaconda](https://github.com/SarCode/Ubuntu-Software-Utilities/tree/master/Anaconda) in few easy steps
 
 <br>
-<br>
 
 ## Clean your system
 Removes:
@@ -22,7 +21,7 @@ Majority of the junk is deleted.
 `sudo apt-get autoclean && sudo apt-get autoremove`
 
 <br>
-<br>
+
 
 ## Complete Update and Upgrade your system
  
@@ -30,7 +29,6 @@ Majority of the junk is deleted.
  <br>
  `sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get upgrade --with-new-pkgs`
 
-<br>
 <br>
 
 ## Ever closed a terminal that was running important command?
@@ -57,4 +55,7 @@ Example:
 Just simply, run a command and close the tab.
 
 <br>
-<br>
+
+## Linux Cheat Sheet
+
+Do more than you do on linux with this [cheat-map](https://github.com/SarCode/Ubuntu-Software-Utilities/raw/master/linux-cheat-sheet.png)
