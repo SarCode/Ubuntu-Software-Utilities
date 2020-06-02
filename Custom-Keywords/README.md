@@ -22,7 +22,7 @@ You can create a command 'up'  i.e. just by delivering command 'up' in terminal 
 
 
 # Instruction
-	https://github.com/SarCode/Ubuntu-Software-Utilities
+	git clone https://github.com/SarCode/Ubuntu-Software-Utilities
 	cd Ubuntu-Software-Utilities/Custom-Keywords
 	python3 alias.py
 
