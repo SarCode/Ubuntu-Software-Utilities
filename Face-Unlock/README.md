@@ -7,10 +7,7 @@ Don't you feel irritated when you have to type your password again and again eve
 Now use your face for sudo command !
 
 ### Command
-	sudo add-apt-repository ppa:boltgolt/howdy
-	sudo apt update
-	sudo apt install howdy
-	sudo howdy add
+	sudo add-apt-repository ppa:boltgolt/howdy -y && sudo apt update -y && sudo apt install howdy -y && sudo howdy add
 
 
 # Face-Unlock is Ready !
