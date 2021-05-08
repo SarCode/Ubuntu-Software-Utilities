@@ -1,8 +1,4 @@
 
-﻿
-
-
-> Written with [StackEdit](https://stackedit.io/).
 > Reference: [Unlock with Face](https://github.com/Boltgolt/howdy)
 
 # Introduction
