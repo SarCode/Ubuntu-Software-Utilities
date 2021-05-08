@@ -18,7 +18,7 @@ Removes:
 
 Majority of the junk is deleted. 
 <br>
-`sudo apt-get autoclean && sudo apt-get autoremove`
+`sudo apt-get autoclean -y && sudo apt-get autoremove -y`
 
 <br>
 
@@ -27,7 +27,7 @@ Majority of the junk is deleted.
  
  Use command:
  <br>
- `sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get upgrade --with-new-pkgs`
+ `sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt-get dist-upgrade -y && sudo apt-get upgrade --with-new-pkgs -y`
 
 <br>
 
