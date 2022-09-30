@@ -42,7 +42,7 @@ Open Terminal :
 
 Update and Upgrade all packages.
 
-	conda update --all && conda upgrade --all
+	conda update --all --y && conda upgrade --all --y
 
   
 
