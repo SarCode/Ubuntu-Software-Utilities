@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarcode&label=Profile%20views&color=0e75b6&style=flat" alt="sarcode" /> </p>
+
+[![LinkedIn][https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555]][https://www.linkedin.com/in/sarthak-agarwal-dell/]
+
 # Ubuntu-Software
 Instructions and Commands to install softwares on Ubuntu Machine
 <br>
@@ -59,3 +63,4 @@ Just simply, run a command and close the tab.
 ## Linux Cheat Sheet
 
 Do more than you do on linux with this [cheat-map](https://github.com/SarCode/Ubuntu-Software-Utilities/raw/master/linux-cheat-sheet.png)
+
